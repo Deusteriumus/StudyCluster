@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+/shelf/
+Cluster.iml
+jsLibraryMappings.xml
+misc.xml
+modules.xml
+vcs.xml
+/runConfigurations/cluster_js.xml
